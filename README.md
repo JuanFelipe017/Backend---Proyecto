@@ -51,7 +51,7 @@ Este repositorio contiene el **backend** de la aplicación de películas, encarg
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/JuanFelipe017/nombre-del-repo-backend.git
+   git clone https://github.com/JuanFelipe017/Backend---Proyecto
    ```
 2. Instala las dependencias:
    ```bash
