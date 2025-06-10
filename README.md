@@ -72,4 +72,4 @@ Este repositorio contiene el **backend** de la aplicación de películas, encarg
 
 ## 📚 Enlaces útiles
 
-- [Repositorio Frontend](https://github.com/JuanFelipe017/nombre-del-repo-frontend)
+- [Repositorio Frontend](https://github.com/JuanFelipe017/Frontend---Proyecto)
