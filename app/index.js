@@ -43,7 +43,7 @@ app.post('/api/register', async (req, res) => {
   }
 });
 
-// Ruta para obtener el formulario de registro
+// Ruta para obtener el formulario de ingreso
 // Verifica si el usuario existe y la contraseña es correcta
 
 app.post('/api/login', async (req, res) => {
